@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/Library/Frameworks/Python.framework/Versions/3.5/bin/python3
 #menuadv.py
 import os, fnmatch, re, sys
 from subprocess import call
