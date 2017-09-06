@@ -53,7 +53,7 @@ while (running):
             running = False
     except ValueError:
             # Otherwise, ignore invalid input
-            if run_item == "x":
+            if book_item == "x":
                 running = False
                 print("Exit")
 #End
